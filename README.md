@@ -11,19 +11,15 @@ Et système de communication.
 Ce travail consiste à réaliser un blog.
 
 
-/*=============================================
-=                langage				      =
-=============================================*/
-		/**
-
+/*==============================
+=                langage	   =
+===============================*/
 			
 			- PHP
 			- generateur de template Smarty
 			- Jquery
 			- Html
 			- Css: bootstrap twitter
-
-		**/
 
 		Author: NIAMPA YISSO ARMAND 
 
@@ -33,9 +29,9 @@ Ce travail consiste à réaliser un blog.
 
 		Date: 26/0/2014     Calais France
 
-/*============================================================
-=            Toute amélioration sera la bienvenue			 =
-============================================================*/
+/*========================================
+=  Toute amélioration sera la bienvenue  =
+==========================================*/
 
 
 
