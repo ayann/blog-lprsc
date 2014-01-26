@@ -7,10 +7,11 @@
 	/*==========  fin  ==========*/
 
 	/*==========  connexion distant  ==========*/
-		// $host="mysql.hostinger.fr";
-		// $user="u781037186_yaan";
-		// $pass="bdd-Niampa1992";
+		// $host ="";
+		// $user ="";
+		// $pass ="";
+		// $db   ="";
 		// mysql_connect ($host,$user,$pass);
-		// mysql_select_db('u781037186_blog');
+		// mysql_select_db($db);
 	/*==========  fin  ==========*/
 	session_start();
